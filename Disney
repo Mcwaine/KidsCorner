@@ -1,6 +1,6 @@
 Disney
 
-<poster></poster>
+<poster>http://i.ytimg.com/vi/MLV30zi-9ts/maxresdefault.jpg</poster>
 <fanart></fanart>
 <thumbnail></thumbnail>
 
@@ -49,9 +49,27 @@ item>
 </item>
 
 <item>
+<title>Frozen</title>
+<thumbnail></thumbnail>
+<link>https://r7---sn-8pgbpohxqp5-ciml.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=d2514cd5f641ddd3&itag=37&source=webdrive&ip=92.236.173.47&ipbits=0&expire=1434878260&sparams=cmbypass,expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,shardbypass,source&signature=71D88C9FCEA46CDC74B2551E2F2D260F4626D038.82254EF0389D471D7FC2C3B2DC88699B40804C0C&key=cms1&cms_redirect=yes&mm=31&mn=sn-8pgbpohxqp5-ciml&ms=au&mt=1434322654&mv=m&pl=22</link>
+</item>
+
+<item>
 <title>Make Mine Music</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Make_mine_music_poster.png/220px-Make_mine_music_poster.png</thumbnail>
 <link>http://veehd.com/video/4532771_Disney-Make-Mine-Music-1946</link>
+</item>
+
+<item>
+<title>Peter Pan</title>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BNzQ3OTU3ODA3Nl5BMl5BanBnXkFtZTcwNzYwODk3OA@@._V1_SY317_CR4,0,214,317_AL_.jpg</thumbnail>
+<link>http://bestreams.net/2jyu2zkbf95w</link>
+</item>
+
+<item>
+<title>Planes: Fire And Rescue</title>
+<thumbnail></thumbnail>
+<link></link>
 </item>
 
 <item>
