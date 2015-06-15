@@ -1,8 +1,6 @@
-Main
-<poster></poster>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<poster>Kids Corner</poster>
+<fanart>http://www.acvaluecenter.com/content/kids/kids-corner.gif</fanart>
 
 <name>Kids Movies</name>
-<thumbnail></thumbnail>
+<thumbnail>http://unitedfamily.com/wp-content/uploads/2013/09/Kids-Movies-Now11.png</thumbnail>
 <link>https://raw.githubusercontent.com/Mcwaine/KidsCorner/master/Kids%20Movies</link>
